@@ -6,6 +6,18 @@
     opacity: 1;
   }
 }
+
+.loginPage {
+  height: 100vh;
+  position: relative;
+  background-color: var(--color-white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .university-of-isfahan-logo-1-icon {
   position: relative;
   width: 150px;
