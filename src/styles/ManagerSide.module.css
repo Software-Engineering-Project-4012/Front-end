@@ -61,7 +61,7 @@
   padding: var(--padding-3xs);
   background-color: transparent;
   border-radius: var(--br-xl);
-  width: 282px;
+  width: 270px;
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -171,7 +171,7 @@
   box-shadow: -4px 4px 4px rgba(24, 29, 49, 0.3);
   border: 1px solid var(--color-midnightblue-100);
   box-sizing: border-box;
-  width: 280px;  
+  width: 285px;  
   display: flex;
   justify-content: space-around;
   flex-direction: column;
