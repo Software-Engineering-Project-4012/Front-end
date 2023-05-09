@@ -1,10 +1,5 @@
-<<<<<<< Updated upstream
-import React from "react";
-import "./main.css";
-=======
 import React, { useState, useEffect } from "react";
 import "./main1.css";
->>>>>>> Stashed changes
 import "./global.css";
 import Header from "../../components/adminHeader";
 import Table from "../../components/Table";
@@ -27,11 +22,7 @@ const ManagerMainPage = () => {
       <Header />
       <SearchBox />
       <div className="table-body">
-<<<<<<< Updated upstream
-      <Table arr={arr} className="table" />
-=======
       <Table columns={columns} values={values} data={data}  className="table" />
->>>>>>> Stashed changes
       </div>
       <Footer />
     </div>
